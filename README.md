@@ -1,3 +1,3 @@
 ![](https://komarev.com/ghpvc/?username=codingwithsurya&color=green)
 
-My interests lie in the intersection of machine learning and systems for efficient model training and inference. If you find any of my work interesting or just want to say hi, feel free to reach out @ ssubrama32@gatech.edu!
+Hi, my name is Surya! I really enjoy machine learning and systems. If you find any of my work interesting or just want to say hi, feel free to reach out @ ssubrama32@gatech.edu or dm me on X [https://x.com/suryaasub]!
